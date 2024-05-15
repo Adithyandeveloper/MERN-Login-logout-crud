@@ -1,0 +1,38 @@
+#login_Page{
+    margin: 0;
+    padding: 0;
+}
+.div1{
+    position: relative;
+    background-color: azure;
+
+}
+.child1{
+    position: absolute;
+    /* top: 30px; */
+    margin: 0;
+    right: 40px;
+    font-size: 15px;
+}
+.child2{
+    position: absolute;
+    margin: 0;  
+}
+.child3{
+    /* position: absolute; */
+  
+   text-align: center;
+   top: 50px;
+}
+.child4{
+    margin: 0;
+    position: absolute;
+    bottom: 2px;
+}
+li{
+    display:block
+}
+.d{
+    overflow: scroll;
+}
+
